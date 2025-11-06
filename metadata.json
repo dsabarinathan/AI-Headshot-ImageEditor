@@ -1,0 +1,5 @@
+{
+  "name": "AI Headshot & Image Editor",
+  "description": "Generate professional headshots from an image or use text prompts to edit your photos with AI using the Gemini API.",
+  "requestFramePermissions": []
+}
